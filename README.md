@@ -14,3 +14,6 @@ Steps: https://www.twilio.com/blog/wp-content/uploads/2017/02/google-developer-c
 ## Other setup ##
 * Share the google sheet with the email address (from client_secret.json)
 * Give write permission in "project_path/temp" folder
+
+## More information ##
+* <https://www.twilio.com/blog/2017/03/google-spreadsheets-and-php.html>
