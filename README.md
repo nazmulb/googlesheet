@@ -17,3 +17,4 @@ Steps: https://www.twilio.com/blog/wp-content/uploads/2017/02/google-developer-c
 
 ## More information ##
 * <https://www.twilio.com/blog/2017/03/google-spreadsheets-and-php.html>
+* <https://github.com/compwright/starwood-evite/tree/master/Source/vendor/asimlqt/php-google-spreadsheet-client>
